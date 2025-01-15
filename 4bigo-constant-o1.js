@@ -18,4 +18,4 @@ console.log(findNumberTwo(100)); //false
 
 //01 - finding a value without loops
 
-/**constant - ex acceessing value in arrays (value look up), linear - loops , quadratic - nested loops, logarithmic - factional finding**
+/**constant - ex acceessing value in arrays (value look up), linear - loops , quadratic - nested loops, logarithmic - factional finding */
